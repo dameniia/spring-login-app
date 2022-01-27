@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar target/dependency/webapp-runner.jar --port $PORT target/spring-login-02.war
+web: java $JAVA_OPTS -jar target/dependency/webapp-runner.jar --port $PORT target/spring-login-0.2.war
